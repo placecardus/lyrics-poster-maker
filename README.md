@@ -2,6 +2,8 @@
 
 An online tool to create beautiful, personalized posters featuring your favorite song lyrics - completely free!
 
+![lyrics poster maker print art ](https://sharegiftlist.com/images/app/lyrics-poster-circle-print.png)
+
 ## Inspiration
 
 The idea for this project came from observing the popularity of lyric posters on platforms like Etsy. However, most offerings there require payment and only provide digital versions. We wanted to create a free alternative that allows users to design and download their own lyric posters without any cost.
