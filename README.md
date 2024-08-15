@@ -54,11 +54,9 @@ We're constantly working to improve our tool. If you have any suggestions or enc
 
 ## License
 
-[Include license information]
+[MIT]
 
-## Connect With Us
 
-[Include social media links or contact information]
 
 ---
 
