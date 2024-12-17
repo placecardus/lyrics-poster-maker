@@ -15,6 +15,7 @@ The idea for this project came from observing the popularity of lyric posters on
 - Customizable fonts, colors, and layouts
 - High-quality image output
 - Completely free to use
+- [Free Lyrics Card Maker](https://lyric-card-maker.vercel.app/)
 - Instant download of your created poster
 
 ## How to Use
